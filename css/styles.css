@@ -197,7 +197,7 @@ h4 {
   display: flex;
   justify-content: space-between;
 }
-.seccion-inferior .blog {
+.seccion-inferior .blog{
   flex-basis: 60%;
 }
 .seccion-inferior .testimoniales {
@@ -217,7 +217,7 @@ h4 {
 .entrada-blog .texto-entrada {
   flex-basis: calc(60% - 3rem);
 }
-.texto-entrada a {
+.texto-entrada a{
   color: #000000;
   text-decoration: none;
 }
